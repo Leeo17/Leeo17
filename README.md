@@ -6,43 +6,43 @@ platforms, healthcare systems and educational tools.
 ## 🚀 Tech Stack & Skills
 ###
 <div align="left">
-  <a href="https://angular.io/" target="_blank">
+  <a href="https://angular.io/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   </a>
   <img width="12" />
-  <a href="https://react.dev/" target="_blank">
+  <a href="https://react.dev/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   </a>
   <img width="12" />
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   </a>
   <img width="12" />
-  <a href="https://sass-lang.com/" target="_blank">
+  <a href="https://sass-lang.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   </a>
   <img width="12" />
-  <a href="https://nextjs.org/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   </a>
   <img width="12" />
-  <a href="https://ionicframework.com/" target="_blank">
+  <a href="https://ionicframework.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
   </a>
   <img width="12" />
-  <a href="https://storybook.js.org/" target="_blank">
+  <a href="https://storybook.js.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   </a>
   <img width="12" />
-  <a href="https://nodejs.org/" target="_blank">
+  <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   </a>
 </div>
